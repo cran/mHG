@@ -1,0 +1,6 @@
+export(mHG.test, mHG.statistic.calc, mHG.pval.calc)
+exportClasses(
+    "mHG.statistic.info" 
+)
+importFrom(methods,setClass)
+importFrom(methods,new)

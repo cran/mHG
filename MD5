@@ -1,0 +1,11 @@
+5875c1199da16666011e244425bc6d76 *DESCRIPTION
+c2384f9684069ebd413c0a5889064d40 *NAMESPACE
+b322542a8aa23f191936fed7a188e3d0 *R/mHG.R
+a89076ac3159b550412361252ab93fc5 *inst/CITATION
+ad5a262f95cf13f740b08713e5e4e377 *man/mHG-package.Rd
+6f277d6431c94be79422a1b263d52286 *man/mHG.pval.calc.Rd
+f196842c4fb9751924b2ff7b236fe27f *man/mHG.statistic.calc.Rd
+2a5127ad53395bee2b2b8ce2c6e9b0b6 *man/mHG.statistic.info-class.Rd
+638b0129e8f009ee540cb7ed53ffc743 *man/mHG.test.Rd
+8cd58f39e6509399f836a75c89d8b59f *tests/testthat.R
+c0639fad9d47e7746be944bf0b8214f9 *tests/testthat/test-mHG.R

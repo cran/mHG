@@ -1,0 +1,20 @@
+citHeader("Please cite the first paper for the software itself and the second paper for the statistical method.")
+
+citEntry(
+   entry="manual",
+   title = "mHG: Minimum-Hypergeometric test",
+   author = "Kobi Perl",
+   year = 2015,
+   note = "R package version 1.0",
+   textVersion = "Kobi Perl (2015). mHG: Minimum-Hypergeometric test. R package version 1.0."
+)
+
+citEntry(
+	entry="phdthesis",
+	title = "Discovering Motifs in Ranked Lists of DNA Sequences",
+	author = "Eden, Eran",
+	school = "Haifa",
+	year = 2007,
+	url = "http://bioinfo.cs.technion.ac.il/people/zohar/thesis/eran.pdf",
+	textVersion = "Eran Eden (2007). Discovering Motifs in Ranked Lists of DNA Sequences. Haifa. Retrieved from http://bioinfo.cs.technion.ac.il/people/zohar/thesis/eran.pdf"
+)
