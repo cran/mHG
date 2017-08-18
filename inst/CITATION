@@ -12,7 +12,7 @@ citEntry(
 citEntry(
 	entry="phdthesis",
 	title = "Discovering Motifs in Ranked Lists of DNA Sequences",
-	author = "Eden, Eran",
+	author = "Eran Eden",
 	school = "Haifa",
 	year = 2007,
 	url = "http://bioinfo.cs.technion.ac.il/people/zohar/thesis/eran.pdf",

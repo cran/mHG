@@ -376,7 +376,7 @@ HG_row_n.calc.recur <- function(HG_row_m, m, n, b_n, N, B) {
 }
 
 HG_row_n.calc.iter <- function(HG_row_m, m, n, b_n, N, B) {
-  # Calculate HG row n recursively.
+  # Calculate HG row n iteratively.
   # See function documentation for "HG_row_n.calc", to gain insight on input and outputs. 
   
   # NOTE: The code works directly on HG_row_m, m - increasing m until it becomes n.

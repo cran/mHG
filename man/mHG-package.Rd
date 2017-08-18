@@ -1,6 +1,6 @@
-\name{mHT-package}
-\alias{mHT-package}
-\alias{mHT}
+\name{mHG-package}
+\alias{mHG-package}
+\alias{mHG}
 \docType{package}
 \title{
 Minimum-Hypergeometric Test
@@ -18,7 +18,7 @@ Retrieved from http://bioinfo.cs.technion.ac.il/people/zohar/thesis/eran.pdf}
 }
 \details{
 \tabular{ll}{
-Package: \tab mHT\cr
+Package: \tab mHG\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2015-05-18\cr
